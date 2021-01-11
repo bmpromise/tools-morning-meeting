@@ -1,4 +1,6 @@
 # 早上代碼會 - 簡易輔助工具
+## 使用 這個工具
+- [DEMO](https://bmpromise.github.io/tools-morning-meeting/tool.html)
 ## 關於 這個工具
 > 1. 拉取Lob整理GIT 更新名單，貼置第一個文字區
 > 
