@@ -1,20 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>tools</title>
-  <style>
-    textarea{
-      width: 100vh;
-      height: 50vh;
-      display: block;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tools</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: row;
+            padding: 0px;
+            margin: 0px;
+        }
+        
+        .item {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        textarea {
+            width: 400px;
+            height: 300px;
+            padding: 0;
+            margin: 5px;
+            border: 1px 1px;
+            display: flex;
+        }
+        
+        #mix {
+            height: 612px;
+        }
+    </style>
 </head>
+
 <body>
-  <textarea id='inp' type="text" placeholder="輸入區"></textarea>
-  <textarea id='oup' type="text" placeholder="顯示區"></textarea>
-  <script src="main.js"></script>
+    <div class="item">
+        <textarea id='inp' type="text" placeholder="1.從telegram貼上更新清單(貼到代碼機)"></textarea>
+        <textarea id='oup' type="text" placeholder="2.生成參與名單,輸入主持人(貼到telegram)"></textarea>
+    </div>
+    <textarea id='mix' type="text" placeholder="3.完成組合清單(貼到skype)"></textarea>
+    <script src="main.js"></script>
 </body>
+
 </html>
