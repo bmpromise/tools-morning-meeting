@@ -2,11 +2,11 @@
 ## 使用 這個工具
 - [DEMO](https://bmpromise.github.io/tools-morning-meeting/tool.html)
 ## 關於 這個工具
-> 1. 拉取Lob整理GIT 更新名單，貼置第一個文字區
+> 1. 拉取Lob整理GIT 更新名單，貼置第一個【更新清單】
 > 
-> 2. 將第二個產出代碼會名單複製到telegram - 代碼交流會
+> 2. 將第二個【參與名單】複製到telegram - 代碼交流會
 > 
-> 3. 將第二個+第一個 文字內容 複製到 Skype 公共會議群
+> 3. 將第三個【完成組合清單】 複製貼到 Skype 公共會議群
 
 ## 關於 主持會議
 早上八點左右，整理好LOB的名單跟開好遠端環境
