@@ -13,7 +13,7 @@ let objAry = []; // 最後成品
 let nameMap = []; // 不重複名單
 
 function outputFn(e) {
-    mix.value = input.value + "\n\n" + output.value;
+    mix.value = output.value + "\n\n" + input.value;
 }
 
 function inputFn(e) {
